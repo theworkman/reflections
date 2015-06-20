@@ -1,0 +1,31 @@
+# compare versions of code in Terminal
+
+diff -u game_old.js game_new.js
+
+# +: added code 
+# -: removed code
+
+pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+
+# changes called commits
+
+	# fix off-by-one bug
+	# add cool new feature
+	# improve user docs
+
+git clone #url#     copy git files
+
+git log     # show git changes # q to exit
+
+git diff #key1# #key2#   show differences between two commits
+
+git checkout #commit#    restore to previous version
+
+scp   # secure copy of directory from one computer to another
+
+git init    # initialize git repository
+
+ls -a # show hidden files
+
+git status

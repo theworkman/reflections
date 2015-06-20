@@ -1,0 +1,11 @@
+###### Lesson 2 #######
+
+
+git init    # initialize git repository
+
+ls -a # show hidden files
+
+git status
+
+
+git add # add files to staging area to prepare commit
