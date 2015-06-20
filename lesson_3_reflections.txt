@@ -6,4 +6,6 @@ git remote add #name (origin)# #URL#
 
 git remote -v  # more verbose, shows URLs to fetch and push data
 
+git push #remote name# #branch name#
+
 I can edit the file and commit on GitHub too and pull to local repository
