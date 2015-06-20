@@ -9,3 +9,5 @@ git status
 
 
 git add # add files to staging area to prepare commit
+
+git commit  # commit changes to staged files

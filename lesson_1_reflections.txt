@@ -24,8 +24,3 @@ git checkout #commit#    restore to previous version
 
 scp   # secure copy of directory from one computer to another
 
-git init    # initialize git repository
-
-ls -a # show hidden files
-
-git status
