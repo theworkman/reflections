@@ -1,5 +1,7 @@
 ########## lesson 3 GitHub ################
 
-git remote
+git remote  # view and create remotes
 
-git remote add
+git remote add #name (origin)# #URL#
+
+git remote -v  # more verbose, shows URLs to fetch and push data
