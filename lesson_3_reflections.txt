@@ -4,6 +4,18 @@ git remote  # view and create remotes
 
 git remote add #name (origin)# #URL#
 
+<<<<<<< HEAD
 git remote -v  # more verbose, shows URLs to fetch and push data
 
 git push #remote name# #branch name#
+||||||| merged common ancestors
+git remote -v  # more verbose, shows URLs to fetch and push data
+=======
+git remote -v  # more verbose, shows URLs to fetch and push data
+
+git push #remote name# #branch name#
+
+I can edit the file and commit on GitHub too and pull to local repository
+
+git pull origin master
+>>>>>>> 251951822b9c495cff5f8ca927d65d2e8bd52e8a
