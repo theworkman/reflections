@@ -11,3 +11,26 @@ git status
 git add # add files to staging area to prepare commit
 
 git commit  # commit changes to staged files
+
+
+git checkout master  # checkout most recent commit
+
+git diff # without arguments compares working directory and staging area files (changes between commits)
+
+git diff --staged  # difference between last commit and staged files
+
+git reset --hard   # remove uncommitted changes
+
+git branch  # show current branches
+
+git branch #name#   make new branch
+
+git checkout #branchname#
+
+git log --graph --oneline #master# #branch#       commit history
+
+git checkout -b #newbranchname#
+
+git merge master #branch#
+
+git show #key#     diff with parent
